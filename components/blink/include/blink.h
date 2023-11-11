@@ -1,1 +1,1 @@
-void blibk(pin);
+void blink(pin);
