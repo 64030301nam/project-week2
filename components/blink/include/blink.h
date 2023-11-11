@@ -1,1 +1,1 @@
-void func(void);
+void blibk(pin);
